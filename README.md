@@ -32,4 +32,4 @@ Implement as much options below as you can:
 
 ## Your DEMO LINK
 
-- [DEMO LINK](https://myroslva-diiak.github.io/react_product-categories-practice/)
+- [DEMO LINK](https://myroslav-diiak.github.io/react_product-categories-practice/)
